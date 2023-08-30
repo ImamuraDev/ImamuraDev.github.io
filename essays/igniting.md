@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "The Versatility of Javascript"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2023-08-30
 published: true
 labels:
   - Software Engineering
-  - Learning
+  - Javascript
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
