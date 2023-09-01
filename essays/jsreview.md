@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="1000px" class="rounded float-start pe-4" src="../img/JavaScript.jpg">
 
 Many people would tell you that, despite the similarity in names, Java and JavaScript are very different languages. Yet when I first started JavaScript in high school, I was still skeptical; surely they must be at least a little similar, a reason for the name. I was able to create a few simple functions that were needed for a project, but I never really understood the language on a practical level. After going through the freeCodeCamp course and gaining a much better understanding of the subject, it has become clear to me how versatile and flexible JavaScript really is.
 
