@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "DFE"
-date: 2020
+title: "Chess Club VP"
+date: 20XX
 published: true
 labels:
   - Lisp
