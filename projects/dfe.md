@@ -6,11 +6,10 @@ title: "DFE"
 date: 2020
 published: true
 labels:
-  - Javascript
-  - Meteor
+  - Python
+  - Django
   - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+summary: "A responsive web application for travel planning that my team developed for HACC 2020."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
