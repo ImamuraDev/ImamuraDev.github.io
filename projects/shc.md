@@ -9,7 +9,7 @@ labels:
   - Python
   - SQL
   - Django
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "An electric car charging station monitoring website created by my team which took first in HACC 2019"
 ---
 
 <div class="text-center p-4">
