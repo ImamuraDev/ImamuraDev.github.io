@@ -9,7 +9,7 @@ labels:
   - Python
   - SQL
   - Django
-summary: "An electric car charging station monitoring website created by my team which took first in HACC 2019"
+summary: "An electric vehicle charging station monitoring website created by my team which took first in HACC 2019."
 ---
 
 <div class="text-center p-4">
