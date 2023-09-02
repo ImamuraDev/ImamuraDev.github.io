@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/SHC.png
 title: "SHC"
 date: 2019
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Python
+  - SQL
+  - Django
 summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
 ---
 
