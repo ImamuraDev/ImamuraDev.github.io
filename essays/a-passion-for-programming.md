@@ -8,7 +8,6 @@ published: true
 labels:
   - Software Engineering
 ---
-<img width="1300px" class="rounded float-start pe-4" src="../img/neuralnetwork.png">
 
 ## Past
 
@@ -21,3 +20,5 @@ labels:
 ## Future
 
   In the future, I hope to be able to work in fields such as machine learning or game development, though I presently don’t have that much experience in either. Machine learning, especially with the advent of publicly available and popular AI like ChatGPT and similar chatbots, is a very interesting subject that holds a lot of undiscovered potential. It is certainly a topic that I will be looking into in the future, whether professionally or just as an interest. As for game development, it is more of a personal interest, due to my hobby of playing video games, though I would potentially be interested in pursuing it as a career as well.
+
+<img width="1300px" class="rounded float-start pe-4" src="../img/neuralnetwork.png">
