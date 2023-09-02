@@ -12,7 +12,7 @@ labels:
 summary: "A government project overview site that my team developed which tied for first in HACC 2020."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<source src=”https://youtu.be/PFsl1OtRINg” type=video/ogg>
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
