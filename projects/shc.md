@@ -36,4 +36,4 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can find the project here: <a href="https://devpost.com/software/dfe">https://devpost.com/software/dfe</a>
