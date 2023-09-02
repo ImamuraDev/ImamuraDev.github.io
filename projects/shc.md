@@ -36,4 +36,4 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can find the project here: <a href="https://devpost.com/software/dfe">https://devpost.com/software/dfe</a>
+You can find the project here: <a href="https://devpost.com/software/shc">https://devpost.com/software/shc</a>
