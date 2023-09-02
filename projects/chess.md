@@ -3,12 +3,12 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "Chess Club VP"
-date: 2019
+date: 2019-2021
 published: true
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "Served as Vice President for Mililani High School Chess Club."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
