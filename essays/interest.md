@@ -8,6 +8,7 @@ published: true
 labels:
   - Software Engineering
 ---
+<img width="1300px" class="rounded float-start pe-4" src="../img/neuralnetwork.png">
 
   I’ve always been interested in computers, in part due to my enjoyment of video games, even as early as elementary school. I even played around a bit in Scratch during middle school. But I never began to explore development and real code until high school, where I learned Python as my first language. Ever since, I’ve known it’s what I want to do as a career and have been pursuing more knowledge and experience in the field of software engineering, as well as trying to expand my repertoire as a programmer overall.
 
