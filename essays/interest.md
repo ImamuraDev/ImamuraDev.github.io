@@ -6,9 +6,7 @@ title: "A Passion for Programming"
 date: 2023-09-01
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Software Engineering
 ---
 
   I’ve always been interested in computers, in part due to my enjoyment of video games, even as early as elementary school. I even played around a bit in Scratch during middle school. But I never began to explore development and real code until high school, where I learned Python as my first language. Ever since, I’ve known it’s what I want to do as a career and have been pursuing more knowledge and experience in the field of software engineering, as well as trying to expand my repertoire as a programmer overall.
