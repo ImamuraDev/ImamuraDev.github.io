@@ -11,7 +11,7 @@ labels:
   - Django
 summary: "An electric vehicle charging station monitoring website created by my team which took first in HACC 2019."
 ---
-(1) what the project was about; (2) what your role was and how much of the work you were responsible for; and (3) what did you learn from the experience?
+
 <div class="text-center p-4">
   <img width="300px" src="../img/Electric_Car_Charging_Station_Honolulu.jpg" class="img-thumbnail" >
 </div>
