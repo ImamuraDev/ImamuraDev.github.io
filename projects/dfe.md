@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/DFE.png
+image: img/Defining Future Expectations.png
 title: "DFE"
 date: 2020
 published: true
@@ -15,7 +15,7 @@ summary: "A government project overview site that my team developed which tied f
   <img width="1200px" src="../img/DFEHomepage.png" class="img-thumbnail" >
 </div>
 
-  DFE is a web application that I helped create as part of my high school coding club. It was developed over a few weeks for the 2020 Hawaii Annual Code Challenge (HACC), and tied for first in the high school division. It aims to solve one of the problems provided by the government and various companies, out of which we chose to create a website that lists assorted government projects in order to allow someone to view the status and various details of each project, including links to other related projects which are visualized on the page.
+  Defining Future Expectations (DFE) is a web application that I helped create as part of my high school coding club. It was developed over a few weeks for the 2020 Hawaii Annual Code Challenge (HACC), and tied for first in the high school division. It aims to solve one of the problems provided by the government and various companies, out of which we chose to create a website that lists assorted government projects in order to allow someone to view the status and various details of each project, including links to other related projects which are visualized on the page.
 
   DFE was created through Django, a Python web framework. As this was during COVID, development was also mostly remote, over Discord. During this project, I worked on various Python elements of the project, as well as a few short JavaScript functions.
 
