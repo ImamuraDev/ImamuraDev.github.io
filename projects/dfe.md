@@ -11,7 +11,7 @@ labels:
   - MongoDB
 summary: "A government project overview site that my team developed which tied for first in HACC 2020."
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PFsl1OtRINg?si=ZC86F_Sqnvr8B_A-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![DFE Project Video](https://img.youtube.com/vi/PFsl1OtRINg/0.jpg)](https://www.youtube.com/watch?v=PFsl1OtRINg)
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
