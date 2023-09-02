@@ -24,4 +24,4 @@ Here is some example code to illustrate Simple Schema use:
 
 {% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+You can find the project here: <a href="https://devpost.com/software/shc">https://devpost.com/software/shc</a>
