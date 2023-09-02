@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+title: "SHC"
+date: 2019
 published: true
 labels:
   - Robotics
