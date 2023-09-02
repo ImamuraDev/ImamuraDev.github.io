@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/Defining Future Expectations.png
-title: "DFE"
+image: img/DFE.png
+title: "Defining Future Expectations"
 date: 2020
 published: true
 labels:
