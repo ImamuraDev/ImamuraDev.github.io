@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "Chess Club VP"
-date: 20XX
+date: 2019
 published: false
 labels:
   - Lisp
