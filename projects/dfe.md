@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/DFE.png
 title: "DFE"
 date: 2020
 published: true
