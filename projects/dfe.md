@@ -21,4 +21,4 @@ DFE was created through Django, a Python web framework. It was developed over a 
 
 You can find an overview of the site here: <a href="https://www.youtube.com/watch?v=PFsl1OtRINg">https://www.youtube.com/watch?v=PFsl1OtRINg</a>
  
-You can find the project itself here: <a href="https://devpost.com/software/dfe">https://devpost.com/software/dfe</a>
+You can find the information on project itself here: <a href="https://devpost.com/software/dfe">https://devpost.com/software/dfe</a>
