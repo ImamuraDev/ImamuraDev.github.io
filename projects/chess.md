@@ -4,7 +4,7 @@ type: project
 image: img/cotton/cotton-square.png
 title: "Chess Club VP"
 date: 2019
-published: false
+published: true
 labels:
   - Lisp
   - GitHub
