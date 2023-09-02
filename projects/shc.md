@@ -20,4 +20,4 @@ SHC is a web application that I helped create as part of my high school coding c
 
 DFE was created through Django, a Python web framework. It was developed over a few weeks for the 2019 Hawaii Annual Code Challenge (HACC). It aims to solve one of the problems provided by the government and various companies, out of which we chose to create a website that 
 
-You can find the information on project itself here: https://devpost.com/software/shc
+You can find the information on project itself here: <a href="https://devpost.com/software/shc">https://devpost.com/software/shc</a>
