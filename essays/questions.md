@@ -12,7 +12,7 @@ labels:
 
 ## Introduction
 
-“How To Ask Questions The Smart Way,” by Eric Raymond, is a very long and certainly “interesting” read, filled with blunt and even self-admittedly rude statements about the way things should be done. It is an article that is roughly as old as I am, a fact reflected in both the antiquated and outdated terminology misused throughout, as well as perhaps the frankly elitist views that he holds with regard to not annoying the ever-wise “gurus and experts” that make up the “hacker” community. My many gripes with the text notwithstanding, Raymond does manage to make a few fair points about the namesake of the article in-between giving in to his obsession with constantly calling everyone a “luser.”  
+“How To Ask Questions The Smart Way,” by Eric Raymond, is a very long and certainly “interesting” read, filled with insulting, snide, crudge and self-admittedly rude statements about the way things "should" be done. It is an article that is roughly as old as I am, a fact reflected in both the antiquated and outdated terminology misused throughout, as well as perhaps the frankly elitist views that he holds with regard to not annoying the ever-wise “gurus and experts” that make up the “hacker” community, as they will apparently only deign to answer questions that provoke interest in their high IQ minds. My many gripes with the text notwithstanding, Raymond does manage to make a few fair points about the namesake of the article in-between giving in to his obsession with constantly calling everyone a “luser.”  
 	
 ## What is a Smart Question?
 
