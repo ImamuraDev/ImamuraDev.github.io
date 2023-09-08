@@ -34,7 +34,7 @@ They go on to provide relevant portions of their code as necessary, as well as d
 
 Finally, they end their post with the specific troubles they have had in solving the issue and final notes, before courteously thanking anyone who is willing to help. Overall, not perfect but still a very well put together and detailed question, including context and effort. This quality seems to have paid off, as the following day they were answered by a similarly well-constructed reply that both thanked them for the helpful context they provided and also solved their issue.
 
-## A “Not So Smart” Question
+## An Example of a “Not So Smart” Question
 
 <img width="1000px" class="rounded float-start pe-4" src="../img/question4.png">
 
