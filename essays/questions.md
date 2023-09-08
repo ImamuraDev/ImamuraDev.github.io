@@ -10,7 +10,7 @@ labels:
   - Stack Overflow
 ---
 
-<! --- test --->
+<! --- https://www.reddit.com/r/programming/comments/fhz50/how_to_ask_questions_the_smart_way/ --->
 
 ## Introduction
 
