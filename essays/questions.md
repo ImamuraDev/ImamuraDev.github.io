@@ -22,25 +22,25 @@ Once you actually determine that a question needs to be asked, you should choose
 
 ## An Example of a Smart Question
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/question1.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/question1.png">
 
 For an example of a question asked right, at least by Raymond’s standards, we will take a trip to Stack Overflow, a site I’m sure needs no introduction. This question is entitled, “Why does my Kubernetes Cronjob pod get killed while executing?” First and foremost, they establish a clear question that describes their situation concisely. In the body of their question, they also begin by providing context for both the version of Kubernetes that they are working on, as well as going more in depth about their actual problem. They provide two sentences that give valuable context of the situation, describing the purpose of their code as well as what triggers their issues. It is also perfectly understandable and readable (even though there are a few grammar/syntax mistakes here and there).
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/question2.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/question2.png">
 
 They go on to provide relevant portions of their code as necessary, as well as detailing how their problem differs from other posts they have read, showcasing that they did their due diligence and still weren't able to come up with an answer. Conveniently for respondents, they also include logs which give further detail to the problems that they face.
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/question3.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/question3.png">
 
 Finally, they end their post with the specific troubles they have had in solving the issue and final notes, before courteously thanking anyone who is willing to help. Overall, not perfect but still a very well put together and detailed question, including context and effort. This quality seems to have paid off, as the following day they were answered by a similarly well-constructed reply that both thanked them for the helpful context they provided and also solved their issue.
 
 ## An Example of a “Not So Smart” Question
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/question4.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/question4.png">
 
 To be honest, you can likely tell what the issues are just by looking at the picture above. But for specificity’s sake, let us go over them. Obviously, it is hardly even coherent, with many grammatical errors throughout. It seems as though more text has been copy pasted from error logs as opposed to actually typed by the person. Even if one understands them, there is literally no context as to what they are working on besides the tag, and practically no way to assist them. This is reflected in the only response they have received so far: 
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/question5.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/question5.png">
 
 ## Conclusion
 
