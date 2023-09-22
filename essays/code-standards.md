@@ -29,7 +29,7 @@ In contrast to the few but essential upsides of ESLint, its downsides seem numer
 
 
 <img width="1300px" src="../img/err2.png">
-
+*Much improved.*
 
 Such unimpactful marks make it seem unnecessary to pay heed to them unless you are required to adhere to them. As such, I often found myself simply coding as usual until my program was completely functional, then taking a minute or two after to fix all the “mistakes” pointed out by ESLint that honestly made no difference in the end. Moreover, while it does provide admittedly useful error reading, you could just as easily find those errors normally, depending on IDE (although I concede I do not have enough experience without ESLint to say this definitely), without the largely pointless list of errors that ESLint would generate. Thus, though I think it can be helpful, it mostly feels like it only makes your code look nicer rather than actually helping with functionality, making it feel somewhat annoying to use.
 
