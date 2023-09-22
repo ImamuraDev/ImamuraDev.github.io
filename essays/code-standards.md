@@ -15,6 +15,7 @@ labels:
 
 “If you can only implement one software engineering technique to improve quality, it should be coding standards.” The validity of this quote relies upon what one considers quality code; does quality refer to readability? Documentation? The ability to get the job done correctly and bugfree? Or perhaps some combination of these attributes? I suppose if you mainly consider code quality to be the overall readability and neatness of the code, then coding standards such as ESLint would naturally be rather essential. It can indeed help those learning a language by pointing out errors and mistakes at a glance, but is it really an essential download for every project? Overall, having experienced ESLint for a week, I would say that it is mildly useful, but also slightly annoying in some aspects.
 
+
 ## The Pros
 
 To begin, ESLint definitely does a great job of what it’s meant to do: improving your code's readability and helping to catch mistakes. For me, the most essential of its features is highlighting every error in your code and compiling it into a list that tells you which line the issue is found on. This is particularly convenient when compared to trying to trace each error back all the way from the console. 
@@ -22,6 +23,7 @@ To begin, ESLint definitely does a great job of what it’s meant to do: improvi
 <img width="1300px" src="../img/err.png">
 
 This can be especially useful for those learning a language, who may not know all the syntax and caveats of a language. The readability and neatness that it brings to your code can certainly not be understated either; my code hasn’t looked this formal and nice in quite awhile.
+
 
 ## The “Cons”
 
@@ -34,6 +36,7 @@ In contrast to the few but essential upsides of ESLint, its downsides seem numer
 Such unimpactful marks make it seem unnecessary to pay heed to them unless you are required to adhere to them. As such, I often found myself simply coding as usual until my program was completely functional, then taking a minute or two after to fix all the “mistakes” pointed out by ESLint that honestly made no difference in the end.
 
 Moreover, while it does provide admittedly useful error reading, you could just as easily find those errors normally, depending on IDE (although I concede I do not have enough experience without ESLint to say this definitely), without the largely pointless list of errors that ESLint would generate. Thus, though I think it can be helpful, it mostly feels like it only makes your code look nicer rather than actually helping with functionality, making it feel somewhat annoying to use.
+
 
 ## The Verdict
 
