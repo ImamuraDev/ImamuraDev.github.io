@@ -19,7 +19,7 @@ labels:
 
 To begin, ESLint definitely does a great job of what it’s meant to do: improving your code's readability and helping to catch mistakes. For me, the most essential of its features is highlighting every error in your code and compiling it into a list that tells you which line the issue is found on. This is particularly convenient when compared to trying to trace each error back all the way from the console. 
 
-<img width="1300px" src="img/err.pdf">
+<img width="1300px" src="../img/err.pdf">
 
 This can be especially useful for those learning a language, who may not know all the syntax and caveats of a language. The readability and neatness that it brings to your code can certainly not be understated either; my code hasn’t looked this formal and nice in quite awhile.
 
