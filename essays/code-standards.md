@@ -13,7 +13,7 @@ labels:
 
 ## Introduction
 
-“If you can only implement one software engineering technique to improve quality, it should be coding standards.” The validity of this quote relies upon what one considers quality code; does quality refer to readability? Documentation? The ability to get the job done correctly and bug-free? Or perhaps some combination of these attributes? I suppose if you mainly consider code quality to be the overall readability and neatness of the code, then coding standards such as ESLint would naturally be rather essential. It can indeed help those learning a language by pointing out errors and mistakes at a glance, but is it really an essential download for every project? Overall, having experienced ESLint for a week, I would say that it is mildly useful, but also slightly annoying in some aspects.
+“If you can only implement one software engineering technique to improve quality, it should be coding standards.” The validity of this quote relies upon what one considers quality code; does quality refer to readability? Documentation? The ability to get the job done correctly and bugfree? Or perhaps some combination of these attributes? I suppose if you mainly consider code quality to be the overall readability and neatness of the code, then coding standards such as ESLint would naturally be rather essential. It can indeed help those learning a language by pointing out errors and mistakes at a glance, but is it really an essential download for every project? Overall, having experienced ESLint for a week, I would say that it is mildly useful, but also slightly annoying in some aspects.
 
 ## The Pros
 
