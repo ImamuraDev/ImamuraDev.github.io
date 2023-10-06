@@ -13,7 +13,7 @@ labels:
 
 ## Introduction
 
-Many would say that using purely HTML and CSS (with no frameworks) to build a website is a tedious task. You have to write quite a few lines just to accomplish “simple” tasks such as trying to place items in columns or resize elements. Such is the reason that frameworks exist in the first place—to make the process of web design easier for the developer and provide basic tools that would otherwise have to be created from scratch. Having recently learned at least the basics of Bootstrap, I would say that though it is mildly complex, it is useful to have implemented.
+Many would say that using purely HTML and CSS (with no frameworks) to build a website is a tedious task. You have to write quite a few lines just to accomplish “simple” tasks such as trying to place items in columns or resize elements. Such is the reason that frameworks exist in the first place—to make the process of web design easier for the developer and provide basic tools that would otherwise have to be created from scratch. Having recently learned at least the basics of Bootstrap, I would say that though its many features can make it seem somewhat complex, it is useful to have implemented.
 
 
 ## HTML & CSS
