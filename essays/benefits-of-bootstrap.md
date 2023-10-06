@@ -24,7 +24,7 @@ Though it certainly isn’t impossible, using purely HTML and CSS can be difficu
 
 Just creating the navigation bar at the top of the page and splitting the three columns requires you to write three classes, assigning them to different divs and elements in order to achieve the necessary effects.
 
-<img width="1300px" src="../img/web1code.png">
+<img width="500px" src="../img/web1code.png">
 
 Certainly not a complex website, but still a decent amount of styling to achieve such common elements, an attribute which is multiplicative for larger and more complex projects.
 
