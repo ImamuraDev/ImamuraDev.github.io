@@ -38,4 +38,6 @@ We would aim to update the current, out-dated “Ask Us” page to a more modern
 
 Though this project already involves many complex components, there are always areas to be improved. Using additional time, we will continue to implement features that help improve the user experience, such as an FAQ section or other quality of life features. We could also refine the AI, perhaps allowing it to summarize the data as opposed to directly quoting it. The required “special sauce” of this project is the implementation of user-based chat history; users will each have their own individual chat history that is only loaded when they specifically are logged in.
 
+<br>
+
 More information about this project can be found [here](https://hacc.hawaii.gov/challenges/), under "University of Hawaii – ITS Ask Us Challenge".
