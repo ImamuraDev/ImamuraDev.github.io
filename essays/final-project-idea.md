@@ -26,7 +26,7 @@ Our aim is to “create a conversational UX powered by AI, that supports a flexi
 
 We would aim to update the current, out-dated “Ask Us” page to a more modern version that better matches the UH website. For the main page content, it would involve an input bar that allows you to ask a question. Upon submitting your question, you are redirected to either a section or page where you can ask ITS questions in a conversational tone to an AI powered chatbot, such as in the image below. In addition to this, we would seek to implement additional features such as FAQ or chat history, and on an admin page, analytics for chatbot performance, as well as an interface that allows you to edit the database.
 
-<img width="500px" src="../img/web1code.png">
+<img src="../img/chatbotex.png">
 
 
 ## Use Case Ideas
