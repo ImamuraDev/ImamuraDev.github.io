@@ -24,12 +24,15 @@ While this system is functional, user experience can vary depending on a variety
 
 Our aim is to “create a conversational UX powered by AI, that supports a flexible and intuitive conversational search function to identify and retrieve relevant Ask Us articles and information" ([HACC Challenge](https://hacc.hawaii.gov/wp-content/uploads/2023/10/UH-ITS-Ask-Us_HACC-2023-Challenge.pdf)). Specifically, we will create a user friendly chatbot that is able to refer users to relevant information using the provided database as well as provide limited answers to their questions. In this way, we hope to circumvent the unnecessary calls and tickets created and instead streamline the process of finding an answer to your question.
 
+<br>
+
 ## Mockup Page Ideas
 
 We would aim to update the current, out-dated “Ask Us” page to a more modern version that better matches the UH website. For the main page content, it would involve an input bar that allows you to ask a question. Upon submitting your question, you are redirected to either a section or page where you can ask ITS questions in a conversational tone to an AI powered chatbot, such as in the image below. In addition to this, we would seek to implement additional features such as FAQ or chat history, and on an admin page, analytics for chatbot performance, as well as an interface that allows you to edit the database.
 
 <img src="../img/chatbotex.png">
 
+<br>
 
 ## Use Case Ideas
 
@@ -37,6 +40,7 @@ We would aim to update the current, out-dated “Ask Us” page to a more modern
 
 **Admin**: In addition to all functionality included as a standard user, admins are able to access an admin page, which contains information such as data analytics regarding chatbot performance. This page also includes the ability to create, read, update, and delete from the article database.
 
+<br>
 
 ## Beyond the Basics
 
