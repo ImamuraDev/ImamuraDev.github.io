@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-*Preface: I have strong opinions, so this is a very long read.*
+*Preface: I have strong opinions, so this is kind of a long read.*
 
 ## Introduction
 
