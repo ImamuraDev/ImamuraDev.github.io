@@ -38,7 +38,7 @@ Throughout ICS 314, I did not use AI nearly at all, even though I would much rat
 11. Writing code
 12. Documenting code
 
- In all of the aforementioned instances, I much rather preferred to try and figure out the issue myself, giving myself a greater understanding of the systems involved. There is one sole exception to my avoidance of AI throughout this course, a single instance where I tried to troubleshoot some errors (quality assurance) during the final week of HACC, as our group rushed towards a hasty implementation of things. I did this because my group all utilized ChatGPT heavily throughout our Hawaii Annual Code Challenge (HACC) project, and I wanted to try and see if it was worth a shot. Moreover, I was running into heavy issues that were preventing me from implementing things, on a very limited timeframe.
+ In all of the aforementioned instances, I much rather preferred to try and figure out the issue myself, giving myself a greater understanding of the systems involved. Also, frankly, I just didn't need it, especially for the practice and real WODs. There is one sole exception to my avoidance of AI throughout this course, a single instance where I tried to troubleshoot some errors (quality assurance) during the final week of HACC, as our group rushed towards a hasty implementation of things. I did this because my group all utilized ChatGPT heavily throughout our Hawaii Annual Code Challenge (HACC) project, and I wanted to try and see if it was worth a shot. Moreover, I was running into heavy issues that were preventing me from implementing things, on a very limited timeframe.
 
 <img width="1300px" src="../img/wall.jpg">
 
