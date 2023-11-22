@@ -16,9 +16,9 @@ labels:
 
 Over the past few years, the use of AI programs throughout the general populace has increased exponentially, with large effects in a variety of sectors. However, though there may exist many potential upsides to such widely available technologies, there are also many detriments. One such unforeseen consequence was the use of tools like ChatGPT, compounded by the global pandemic and subsequent rise in online classes, creating the perfect storm for students across the globe to skip the effort and just ask some AI program for the answers to their questions. 
 
+<img width="1300px" src="../img/ai.jpg">
 
 For some fields, this does not matter as much, but for others, such as software engineering, applications such as ChatGPT or Github Copilot can have a profound effect on student’s performance, enabling them to “complete” assignments or work that they otherwise should not have. Though I will admit I have used tools like ChatGPT in the past for (required) classes that I didn’t really care about, I do think that the use of AI tools like ChatGPT is an overall detriment to the learning process if not used correctly.
-
 
 
 ## Personal Experience with AI
@@ -39,6 +39,8 @@ Writing code
 Documenting code
  In all of the aforementioned instances, I much rather preferred to try and figure out the issue myself, giving myself a greater understanding of the systems involved. There is one sole exception to my avoidance of AI throughout this course, a single instance where I tried to troubleshoot some errors (quality assurance) during the final week of HACC, as our group rushed towards a hasty implementation of things. I did this because my group all utilized ChatGPT heavily throughout our Hawaii Annual Code Challenge (HACC) project, and I wanted to try and see if it was worth a shot. Moreover, I was running into heavy issues that were preventing me from implementing things, on a very limited timeframe.
 
+<img width="1300px" src="../img/wall.jpg">
+
 As such, I posted my code into the prompt, along with a description and occasionally an error message (the exact statements I have forgotten). I will admit that it eventually did help solve some of my problems (with code snippets), which I had spent quite some time trying to figure out. However, it also often could not completely diagnose the problem, if at all, leaving me to figure things out myself. Overall, I would say it was worth it for such a time-duressed and hard-to-solve issue, but generally not something I would prefer, since I could work it out given enough time.
 
 
@@ -55,7 +57,7 @@ There are many ways in which AI can be both ethically and effectively utilized i
 
 Moreover, one field that I particularly disagree with the usage of AI in is writing (essays). Perhaps this is just a personal gripe as a semi-experienced writer, but I find that just asking ChatGPT to whip up something professional sounding with a bunch of buzzwords and claiming it as your own is frankly insulting to people who actually put in the time to write down their thoughts. While we were writing necessary documentation for the HACC, one group member thought it prudent to only contribute instantaneous, giant paragraphs of information to answer the question, through what I can only assume was ChatGPT. I had to go through these paragraphs, removing overconfident buzzwords while also adding in actual necessary information that was missed.
 
-
+<img width="1300px" src="../img/bunyan.jpg">
 
 
 ## Challenges and Opportunities
@@ -72,7 +74,7 @@ Nonetheless, going off a similar thought as to that in the “Impact on Learning
 
 ## Future Considerations
 
-
+<img width="1300px" src="../img/pandora.jpg">
 
 A somewhat corny but quite accurate analogy that I have heard of widespread use of AI likens the unleashing of AI chatbots and similar user interfaces to that of the opening of Pandora’s box. Whether we like it or not, AI programs like ChatGPT are here to stay. This is especially true for a field like software engineering, which not only is tied to the development of AI, but is also heavily impacted by it due to the code writing functionalities provided. As such, whether you include it in the teaching methods or not, regulate it or not, it will be used by students to help write their code, while also becoming better and better at it. What particular policies and practices are in place are up to those running the course, but I personally would advocate for a more controlled usage, if at all, of AI tools, since I believe that overreliance on it may lead to a wave of, on average, less competent programmers.
 
