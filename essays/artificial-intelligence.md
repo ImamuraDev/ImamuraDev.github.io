@@ -28,7 +28,7 @@ Throughout ICS 314, I did not use AI nearly at all, even though I would much rat
 1. Experience WODs
     - Simply figured out any pressing issues by working it out myself or watching provided explanation video.
 2. In-class Practice WODs
-    - Prefer to prepare for real WODs by doing practice WODs in same style, without AI. Also mostly didn't need help, and if so, just collaborated with table.
+    - Prefer to prepare for real WODs by doing practice WODs in same style I would do real WODs, without AI. Also mostly didn't need help, and if so, just collaborated with table.
 3. In-class WODs
     - Easy enough to do just based on assignments and TA practice WODs, so no need for AI help.
 4. Essays
@@ -48,13 +48,13 @@ Throughout ICS 314, I did not use AI nearly at all, even though I would much rat
 11. Writing code
     - Prefer to write my own code so that I can learn more and gain more experience rather than have an AI do it for me.
 12. Documenting code
-    - I probably have a better idea of what my code is for rather than AI. For documenting other's code, see no. 10.
+    - I probably have a better idea of what my code is for rather than AI. For documenting other people's code, see no. 10.
 
- In all of the aforementioned instances, I much rather preferred to try and figure out the issue myself, giving myself a greater understanding of the systems involved. Also, frankly, I just didn't need it, especially for the (practice and real) WODs, which I found easy enough to do with knowledge from doing homeworks and practice WODs. There is one sole exception to my avoidance of AI throughout this course, a single instance where I tried to troubleshoot some errors (13. Quality assurance) during the final week of HACC, as our group rushed towards a hasty implementation of things. I did this because my group all utilized ChatGPT heavily throughout our Hawaii Annual Code Challenge (HACC) project, and I wanted to try and see if it was worth a shot. Moreover, I was running into heavy issues that were preventing me from implementing things, on a very limited timeframe. (For clarity in 14. Other usages, I did not use it for anything else, for the reasons mentioned above.)
+ In all of the aforementioned instances, I much rather preferred to try and figure out the issue myself, giving myself a greater understanding of the systems involved. Also, frankly, I just didn't need it, especially for the (practice and real) WODs, which I found easy enough to do with knowledge from doing homeworks and practice WODs. There is one sole exception to my avoidance of AI throughout this course, a single instance where I tried to troubleshoot some errors (13. Quality assurance) during the final week of HACC, as our group rushed towards a hasty implementation of things. I did this because my group all utilized ChatGPT heavily throughout our Hawaii Annual Code Challenge (HACC) project, and I wanted to try and see if it was worth a shot. Moreover, I was running into heavy issues that were preventing me from implementing things, on a very limited timeframe.
 
 <img width="1300px" src="../img/wall.jpg">
 
-As such, I posted my code into the prompt, along with a description and occasionally an error message (the exact statements I have forgotten). I will admit that it eventually did help solve some of my problems (with code snippets), which I had spent quite some time trying to figure out. However, it also often could not completely diagnose the problem, if at all, leaving me to figure things out myself. Overall, I would say it was worth it for such a time-duressed and hard-to-solve issue, but generally not something I would prefer, since I could work it out given enough time.
+As such, I posted my code into the prompt, along with a description and occasionally an error message (the exact statements I have forgotten). I will admit that it eventually did help solve some of my problems (with code snippets), which I had spent quite some time trying to figure out. However, it also often could not completely diagnose the problem, if at all, leaving me to figure things out myself. Overall, I would say it was worth it for such a time-duressed and hard-to-solve issue, but generally not something I would prefer, since I could work it out given enough time. (For clarity in 14. Other usages, I did not use it for anything else, for the reasons mentioned above.)
 
 
 ## Impact on Learning and Understanding
