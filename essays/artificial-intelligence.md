@@ -45,12 +45,14 @@ As such, I posted my code into the prompt, along with a description and occasion
 ## Impact on Learning and Understanding
 
 My thoughts on AI on educating and learning can be summed up as follows: artificial intelligence programs are a crutch to students. Yes, they can be useful when first learning a subject and to help explain things (or bugs) that you would not otherwise be able to understand, similar to how a child might need training wheels when first learning to ride a bike. But if you continue to use your crutches even after you learn to walk, eventually you won’t be able to walk without them. I would also concur that when used correctly, AI can be a great boon in a variety of situations. However, in the overwhelming majority of scenarios—particularly with unmoderated usage by lazy students—the use of AI hinders learning, as it is abused and overused.
+
 Take for instance, my usage of ChatGPT during the HACC. When I tried it, I used it only to troubleshoot errors, which I would say is a fair use of AI. However, even in this minimal usage of it, I didn’t really take the time to look at what exactly was the difference that caused the error to be resolved, and just moved on due to time constraints. This caused me to have a lesser understanding of the situation than if I had solved it manually, which could be rectified if I had more time to figure out what had changed that caused it to work.
 
 
 ## Practical Applications
 
 There are many ways in which AI can be both ethically and effectively utilized in real world projects. However, AI can have a similarly detrimental effect depending on how it is utilized. For instance, my group mates for the HACC, who had on multiple occasions mentioned that they had used ChatGPT to write code, have also said that they do not fully understand sections of their code. As you can imagine, it makes it exceedingly more difficult to understand someone else’s code when even they don’t know what it does.
+
 Moreover, one field that I particularly disagree with the usage of AI in is writing (essays). Perhaps this is just a personal gripe as a semi-experienced writer, but I find that just asking ChatGPT to whip up something professional sounding with a bunch of buzzwords and claiming it as your own is frankly insulting to people who actually put in the time to write down their thoughts. While we were writing necessary documentation for the HACC, one group member thought it prudent to only contribute instantaneous, giant paragraphs of information to answer the question, through what I can only assume was ChatGPT. I had to go through these paragraphs, removing overconfident buzzwords while also adding in actual necessary information that was missed.
 
 
@@ -64,6 +66,7 @@ Since I have already discussed the collaborative challenges I have come across w
 ## Comparative Analysis
 
 The comparison between “traditional teaching methods and AI-enhanced approaches in the context of software engineering education,” is an interesting question, though I do think the prompt for this section could be more detailed since I have no clear idea of what “AI-enhanced” teaching means. I assume it just refers to integration of AI into teaching, although to what degree or extent I similarly have no idea.
+
 Nonetheless, going off a similar thought as to that in the “Impact on Learning and Understanding” section, I would say that traditional teaching methods are probably better in general. Usage of AI while learning can be beneficial and help you to understand things, but only if used correctly and preferably sparingly. Not to restate everything, but AI is a crutch and is detrimental to understanding of content when overused. I do think that the justification used in this class of “in the real world, you have access to internet/AI too” is not entirely wrong, but I think that for a better educational experience you should at least limit the usage of it in some capacities.
 
 
