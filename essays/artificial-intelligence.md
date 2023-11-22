@@ -23,7 +23,7 @@ For some fields, this does not matter as much, but for others, such as software 
 
 ## Personal Experience with AI
 
-Throughout ICS 314, I did not use AI nearly at all, even though I would much rather say that in absolutes. As previously mentioned, the use of AI to easily solve your problems detracts from the learning experience and detracts from actually going through and figuring out how to do things yourself. You do not gain the experience and knowledge of going through code and figuring out how things work and what doesn’t work. As such and as a computer science major who actually cares about the subject, I did not use it at all for any class activities including:
+Throughout ICS 314, I did not use AI nearly at all, even though I would much rather say that in absolutes. As previously mentioned, the use of AI to easily solve your problems detracts from the learning experience and detracts from actually going through and figuring out how to do things yourself. You do not gain the experience and knowledge of going through code and figuring out how things work and what doesn’t work. As such and as a computer science major who actually cares about the subject, using AI tools as a serious thought hardly even crossed my mind, and I thusly did not use it at all for any class activities including:
 
 1. Experience WODs
     - Simply figured out any pressing issues by working it out myself or watching provided explanation video.
