@@ -28,17 +28,27 @@ Throughout ICS 314, I did not use AI nearly at all, even though I would much rat
 1. Experience WODs
     - Simply figured out any pressing issues by working it out myself or watching provided explanation video.
 2. In-class Practice WODs
-  -
+    - Prefer to prepare for real WODs by doing practice WODs in same style, without AI. Also mostly didn't need help, and if so, just collaborated with table.
 3. In-class WODs
+    - Easy enough to do just based on assignments and TA practice WODs, so no need for AI help.
 4. Essays
+    - I'll expand upon my thoughts for AI usage in writing later, but in short, AI shouldn't be used for essays in my opinion.
 5. Final project
+    - Briefly used for slight troubleshooting as mentioned below, but otherwise did not use AI since I generally just do not use AI for coding.
 6. Learning a concept / tutorial
+    - Didn't really need, class assignments and experience were good enough to learn concepts. For outside concepts like libraries, just read the docs.
 7. Answering a question in class or in Discord
+    - Didn't really ask or answer any questions, but wouldn't rely upon AI to formulate ideas for me anyways.
 8. Asking or answering a smart-question
+    - Similar to above, didn't really ask or answer any questions, but wouldn't rely upon AI to formulate ideas for me anyways.
 9. Coding example
+    - Didn't need any help or examples from AI, if any examples were needed they were provided.
 10. Explaining code
+    - Prefer to read through code and come to an understanding myself.
 11. Writing code
+    - Prefer to write my own code so that I can learn more and gain more experience rather than have an AI do it for me.
 12. Documenting code
+    - I probably have a better idea of what my code is for rather than AI. For documenting other's code, see no. 10.
 
  In all of the aforementioned instances, I much rather preferred to try and figure out the issue myself, giving myself a greater understanding of the systems involved. Also, frankly, I just didn't need it, especially for the (practice and real) WODs, which I found easy enough to do with knowledge from doing homeworks and practice WODs. There is one sole exception to my avoidance of AI throughout this course, a single instance where I tried to troubleshoot some errors (13. Quality assurance) during the final week of HACC, as our group rushed towards a hasty implementation of things. I did this because my group all utilized ChatGPT heavily throughout our Hawaii Annual Code Challenge (HACC) project, and I wanted to try and see if it was worth a shot. Moreover, I was running into heavy issues that were preventing me from implementing things, on a very limited timeframe. (For clarity in 14. Other usages, I did not use it for anything else, for the reasons mentioned above.)
 
