@@ -25,18 +25,19 @@ For some fields, this does not matter as much, but for others, such as software 
 
 Throughout ICS 314, I did not use AI nearly at all, even though I would much rather say that in absolutes. As previously mentioned, the use of AI to easily solve your problems detracts from the learning experience and detracts from actually going through and figuring out how to do things yourself. You do not gain the experience and knowledge of going through code and figuring out how things work and what doesn’t work. As such and as a computer science major who actually cares about the subject, I did not use it at all for any class activities including:
 
-Experience WODs e.g. E18
-In-class Practice WODs
-In-class WODs
-Essays
-Final project
-Learning a concept / tutorial
-Answering a question in class or in Discord
-Asking or answering a smart-question
-Coding example e.g. “give an example of using Underscore .pluck”
-Explaining code
-Writing code
-Documenting code
+1. Experience WODs e.g. E18
+2. In-class Practice WODs
+3. In-class WODs
+4. Essays
+5. Final project
+6. Learning a concept / tutorial
+7. Answering a question in class or in Discord
+8. Asking or answering a smart-question
+9. Coding example e.g. “give an example of using Underscore .pluck”
+10. Explaining code
+11. Writing code
+12. Documenting code
+
  In all of the aforementioned instances, I much rather preferred to try and figure out the issue myself, giving myself a greater understanding of the systems involved. There is one sole exception to my avoidance of AI throughout this course, a single instance where I tried to troubleshoot some errors (quality assurance) during the final week of HACC, as our group rushed towards a hasty implementation of things. I did this because my group all utilized ChatGPT heavily throughout our Hawaii Annual Code Challenge (HACC) project, and I wanted to try and see if it was worth a shot. Moreover, I was running into heavy issues that were preventing me from implementing things, on a very limited timeframe.
 
 <img width="1300px" src="../img/wall.jpg">
