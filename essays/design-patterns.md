@@ -43,7 +43,7 @@ Our code also implements other patterns, such as modules, singletons, static imp
 Our code additionally uses singletons, a sort of global variable using a class that can only have a single, global instance. In our code, this is used for creating the collections of data for our database, each of which have a singleton instance for ease of use and access.
 
 
-## The downsides of design patterns?
+## The Downsides of Design Patterns
 
 Though many claim design patterns are important to the software engineering process, which they are, they are not without downsides. Using and abusing design patterns too much can lead to overcomplicated and arbitrary code. Also, similarly to how many of the design patterns above can be implemented without intentionally adding them, there are also negative design patterns which can be detrimental to the project if added unintentionally as a result of oversight or negligence.
 
