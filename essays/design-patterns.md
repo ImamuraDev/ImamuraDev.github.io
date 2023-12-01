@@ -17,7 +17,7 @@ In the process of programming, it is quite likely that you have seen a problem t
 
 Design patterns are, as you may have surmised from the introductory section or name, a sort of template or structure. They provide a generally agreed upon, stock standard solution to some type of problem, without delving too much into the specific implementation. For example, one common design pattern in Javascript is the module pattern; when you split your code into multiple, separate modules. This allows you to both have a more organized codebase with distinct modules that do certain things, and also reuse said modules elsewhere if needed. Such is only one example of the many different design patterns out there, all of which have similarly helpful and unique applications.
 
-<img width="700px" src="../img/dp1.png">
+<img width="500px" src="../img/dp1.png">
 
 ## Why should I use design patterns?
 
@@ -28,17 +28,17 @@ Take for instance, my most recent [project](https://github.com/Regex-ICS314/AskU
 The prototype pattern, as is the nature of coding in the prototype-based language of Javascript. 
 We also used meteor to integrate patterns like observer, MVC, and front controller.		
 
-<img width="700px" src="../img/dp2.png">
+<img width="500px" src="../img/dp2.png">
                                             
 The code above is a snippet of our publishing function file, which makes data from the server available to clients in limited and specified amounts. This data is used to reactively render data on the client side as needed. The second function is used to render the following:
 
-<img width="700px" src="../img/dp3.png">
+<img width="900px" src="../img/dp3.png">
                                             
 These cards are dynamically updated based upon which questions are most commonly asked, which depends upon user input. The client-side code elements are the “observers,” waiting for information supplied by the server and database, whose structure with the client is in an MVC format.
 
 Our code also implements other patterns, such as modules, singletons, static imports, etc. Without modules (explained above) our code would be a giant and hard-to-navigate file.
 
-<img width="700px" src="../img/dp4.png">
+<img width="200px" src="../img/dp4.png">
                                             
 Our code additionally uses singletons, a sort of global variable using a class that can only have a single, global instance. In our code, this is used for creating the collections of data for our database, each of which have a singleton instance for ease of use and access.
 
