@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Potential of Patterns"
+title: "The Fundamentals of Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-30
 published: true
