@@ -4,7 +4,7 @@ type: project
 image: img/ChessSet.jpg
 title: "Chess Club VP"
 date: 2019-2021
-published: true
+published: false
 labels:
   - Leadership
 summary: "Served as Vice President for Mililani High School Chess Club."
