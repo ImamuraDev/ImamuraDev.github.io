@@ -21,6 +21,8 @@ summary: "A IT Support Chatbot created for HACC 2023."
 
   This project allowed me to continue practicing my skills in Python. It also served as a brief foray into JavaScript for me, though I wouldn't say I completely understood the language from just this experience. It also continued to give me valuable experience in developing as a team, especially remotely.
 
+The site is currently deployed [here](https://askuh.info/).
+
 You can find an overview video of the site here: <a href="https://youtu.be/1XBOLA5W7lg?si=qEjOiR1EsJ6_BWo8">https://youtu.be/1XBOLA5W7lg?si=qEjOiR1EsJ6_BWo8</a>
  
 You can find the information on project itself [here](https://regex-ics314.github.io/).
