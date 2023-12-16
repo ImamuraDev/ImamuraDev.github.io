@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="The Benefits of Bootstrap | Devin Imamura | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="img/PFP.jpg">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Devin Imamura | Professional Portfolio">
+    <meta property="og:url" content="https://ImamuraDev.github.io/essays/benefits-of-bootstrap.html">
+    <meta property="og:title" content="The Benefits of Bootstrap | Devin Imamura | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="img/PFP.jpg">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>The Benefits of Bootstrap | Devin Imamura | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Devin Imamura</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">The Benefits of Bootstrap</h1>
+  <span class="date">05 Oct 2023</span>
+  <hr>
+  <h2 id="introduction">Introduction</h2>
+
+<p>Many would say that using purely HTML and CSS (with no frameworks) to build a website is a tedious task. You have to write quite a few lines just to accomplish “simple” tasks such as trying to place items in columns or resize elements. Such is the reason that frameworks exist in the first place—to make the process of web design easier for the developer and provide basic tools that would otherwise have to be created from scratch. Having recently learned at least the basics of Bootstrap, I would say that though its many features can make it seem somewhat complex, it is useful to have implemented.</p>
+
+<h2 id="html--css">HTML &amp; CSS</h2>
+
+<p>Though it certainly isn’t impossible, using purely HTML and CSS can be difficult. Perhaps, not in terms of overall complexity—in fact, I would say the simplicity of HTML and CSS only makes it much easier to understand all the tools at your disposal—but rather the amount of attributes you must string together to achieve a simple effect. For instance, take the website built without any frameworks below:</p>
+
+<p><img width="1300px" src="../img/web1.png" /></p>
+
+<p>Just creating the navigation bar at the top of the page and splitting the three columns requires you to write three classes, assigning them to different divs and elements in order to achieve the necessary effects.</p>
+
+<p><img width="500px" src="../img/web1code.png" /></p>
+
+<p>Certainly not a complex website, but still a decent amount of styling to achieve such common elements, an attribute which is multiplicative for larger and more complex projects.</p>
+
+<h2 id="bootstrap">Bootstrap</h2>
+
+<p>Later, I would remake this same website in Bootstrap, with an exactly identical look. Yet it required much less CSS, only two classes to color elements that were included in the other file as well, classes that could easily be moved to style attributes in the HTML file since they are so short.</p>
+
+<p>This is one of the benefits of using a framework; instead of having to create custom classes for common tasks like inlining objects or creating a navbar, you can simply use the premade systems of frameworks like Bootstrap to, say, create three columns that evenly divide the content across the page. This can reduce your development time by allowing you to focus more on creating the website rather than building trivial and common classes.</p>
+
+<p>In this way, frameworks such as Bootstrap are almost like an addition, providing a variety of features to the languages of HTML/CSS. Using it, you can not only avoid having to write and rewrite these classes again and again, but you are also afforded new systems that allow you to create better looking websites (with less effort). Using Bootstrap, I built the following website mockup:</p>
+
+<p><img width="1300px" src="../img/web2.png" /></p>
+
+<p>With just HTML and CSS, this might be somewhat of a pain to create; adding the necessary CSS to have a navbar with two groupings, the symbols as images, dropdowns, and of course the columns at the bottom. Yet, with Bootstrap, this website is made very easily, using tools like navbar, footer, and its inbuilt spacing system, which I found particularly useful.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Overall, I would say that frameworks like Bootstrap are very useful and can assist greatly in web development. They not only reduce the time you must spend on common and redundant tasks, but also provide a wide variety of tools that allow you to create websites of higher quality easily. The only downside in my experience has been that the amount of specifically-named classes and customizations can be hard to memorize in its entirety, often requiring references to documentation and examples, which leave me missing the simplicity of just using HTML/CSS. Nonetheless, I do think that the benefits of frameworks outweigh any growing pains that one might experience while learning them.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

@@ -1,0 +1,57 @@
+{
+  "basics": {
+    "name": "Devin Imamura",
+    "label": "Student",
+    "picture": "img/PFP.jpg",
+    "email": "imamurad@hawaii.edu",
+    "phone": "808-439-9118",
+    "website": "https://ImamuraDev.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "ImamuraDev", "url": "http://github.com/ImamuraDev" },
+      { "network": "linkedin", "username": "Devin Imamura", "url": "http://www.linkedin.com/in/devin-imamura-10b39628a/" },
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Machine Learning" },
+    { "name": "Web Development" },
+    { "name": "Game Development" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Python", "Java", "C", "C++", "JavaScript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2021-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarship awarded to incoming freshmen who apply the Fall semester following high school graduation with a minimum overall GPA of 3.8."
+    },
+    {
+      "title": "First place",
+      "date": "2019 & 2020",
+      "awarder": "Hawaii Annual Code Competition",
+      "summary": "My team took first place in 2019 & 2020.  See my portfolio site for more details."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="The Potential of Patterns | Devin Imamura | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="img/PFP.jpg">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Devin Imamura | Professional Portfolio">
+    <meta property="og:url" content="https://ImamuraDev.github.io/essays/design-patterns.html">
+    <meta property="og:title" content="The Potential of Patterns | Devin Imamura | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="img/PFP.jpg">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>The Potential of Patterns | Devin Imamura | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Devin Imamura</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">The Potential of Patterns</h1>
+  <span class="date">30 Nov 2023</span>
+  <hr>
+  <p>In the process of programming, it is quite likely that you have seen a problem that you have come across before, at least at some base level. You may have even used similar solutions to those from your past. In doing so, you have participated, at least at a fundamental level, in the process of using “design patterns.” But what are design patterns, and why should(/shouldn’t) you use them?</p>
+
+<h2 id="what-are-design-patterns">What are design patterns?</h2>
+
+<p>Design patterns are, as you may have surmised from the introductory section or name, a sort of template or structure. They provide a generally agreed upon, stock standard solution to some type of problem, without delving too much into the specific implementation. For example, one common design pattern in Javascript is the module pattern; when you split your code into multiple, separate modules. This allows you to both have a more organized codebase with distinct modules that do certain things, and also reuse said modules elsewhere if needed. Such is only one example of the many different design patterns out there, all of which have similarly helpful and unique applications.</p>
+
+<p><img width="500px" src="../img/dp1.png" /></p>
+
+<h2 id="why-should-i-use-design-patterns">Why should I use design patterns?</h2>
+
+<p>By using design patterns, you receive many benefits: better readability, scalability, and time efficiency to name a few. As in the example above, it can help to improve the readability of your code, both for outsiders and potentially yourself in the future. Design patterns are also tried and tested, and are proven to work. This means that you should run into less problems than you would have otherwise by attempting to make your own solution without a pattern, and might also spend less time trying to figure out how to scale and expand upon a certain element.</p>
+
+<p>Take for instance, my most recent <a href="https://github.com/Regex-ICS314/AskUs">project</a>. In it, my team utilized various design patterns, such as:</p>
+
+<p>The prototype pattern, as is the nature of coding in the prototype-based language of Javascript. 
+We also used meteor to integrate patterns like observer, MVC, and front controller.</p>
+
+<p><img width="500px" src="../img/dp2.png" /></p>
+
+<p>The code above is a snippet of our publishing function file, which makes data from the server available to clients in limited and specified amounts. This data is used to reactively render data on the client side as needed. The second function is used to render the following:</p>
+
+<p><img width="900px" src="../img/dp3.png" /></p>
+
+<p>These cards are dynamically updated based upon which questions are most commonly asked, which depends upon user input. The client-side code elements are the “observers,” waiting for information supplied by the server and database, whose structure with the client is in an MVC format.</p>
+
+<p>Our code also implements other patterns, such as modules, singletons, static imports, etc. Without modules (explained above) our code would be a giant and hard-to-navigate file.</p>
+
+<p><img width="200px" src="../img/dp4.png" /></p>
+
+<p>Our code additionally uses singletons, a sort of global variable using a class that can only have a single, global instance. In our code, this is used for creating the collections of data for our database, each of which have a singleton instance for ease of use and access.</p>
+
+<h2 id="the-downsides-of-design-patterns">The Downsides of Design Patterns</h2>
+
+<p>Though many claim design patterns are important to the software engineering process, which they are, they are not without downsides. Using and abusing design patterns too much can lead to overcomplicated and arbitrary code. Also, similarly to how many of the design patterns above can be implemented without intentionally adding them, there are also negative design patterns which can be detrimental to the project if added unintentionally as a result of oversight or negligence.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>To conclude, design patterns are a very useful tool for software engineers, which can not only increase the speed and efficiency of application creation, but also improve quality as well. You shouldn’t purposefully implement design patterns for no particular reason, but if you have a particular problem to solve, they can assist greatly. Even just being aware of them, and keeping them in mind as you write to potentially add is a boon to your codebase.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
