@@ -7,6 +7,7 @@ date: 2023-12-13
 published: true
 labels:
   - Software Engineering
+  - Coding Standards
 ---
 
 ## Introduction
