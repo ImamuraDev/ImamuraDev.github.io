@@ -15,11 +15,11 @@ summary: "A IT Support Chatbot created for HACC 2023."
   <img width="1200px" src="../img/DFEHomepage.png" class="img-thumbnail" >
 </div>
 
-  Defining Future Expectations (DFE) is a web application that I helped create as part of my high school coding club. It was developed over a few weeks for the 2020 Hawaii Annual Code Challenge (HACC), and tied for first in the high school division. It aims to solve one of the problems provided by the government and various companies, out of which we chose to create a website that lists assorted government projects in order to allow someone to view the status and various details of each project, including links to other related projects which are visualized on the page.
+  The Ask Us Chabot is a web application that I created as a part of the 2023 Hawaii Annual Code Challenge (HACC). Its purpose is to help users more easily find answers to their questions in a conversational tone, taking the burden off of the UH ITS helpline, who would otherwise have to take calls and redirect the caller to some help article. This chatbot cuts out the middleman and is able to quickly answer any questions that users may have, as well as redirecting them to relevant pages. It also has additional features for admin users, including a variety of statistics regarding usage and the database.
 
-  DFE was created through Django, a Python web framework. As this was during COVID, development was also mostly remote, over Discord. During this project, I worked on various Python elements of the project, as well as a few short JavaScript functions.
+  The Ask Us Chatbot was created using Meteor, as well as React-Bootstrap. The chatbot itself uses OpenAI to power its responses. I mostly worked on everything besides the chatbot, creating both the frontend and backend for the landing page and most of the admin page. I also fixed a large quantity of bugs and errors throughout the code.
 
-  This project allowed me to continue practicing my skills in Python. It also served as a brief foray into JavaScript for me, though I wouldn't say I completely understood the language from just this experience. It also continued to give me valuable experience in developing as a team, especially remotely.
+  This project gave me a lot of experience with using Javascript and creating web applications. Since I built a lot of the components, dealing with both the frontend React portion as well as some of the MongoDB databases, it has really taught me how to create a usable website.
 
 The site is currently deployed [here](https://askuh.info/).
 
