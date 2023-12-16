@@ -9,7 +9,7 @@ labels:
   - Javascript
   - Meteor
   - React-Bootstrap
-summary: "A government project overview site that my team developed which tied for first in HACC 2020."
+summary: "A IT Support Chatbot created for HACC 2023."
 ---
 <div class="text-center p-4">
   <img width="1200px" src="../img/DFEHomepage.png" class="img-thumbnail" >
@@ -21,6 +21,6 @@ summary: "A government project overview site that my team developed which tied f
 
   This project allowed me to continue practicing my skills in Python. It also served as a brief foray into JavaScript for me, though I wouldn't say I completely understood the language from just this experience. It also continued to give me valuable experience in developing as a team, especially remotely.
 
-You can find an overview video of the site here: <a href="https://www.youtube.com/watch?v=PFsl1OtRINg">https://www.youtube.com/watch?v=PFsl1OtRINg</a>
+You can find an overview video of the site here: <a href="https://youtu.be/1XBOLA5W7lg?si=qEjOiR1EsJ6_BWo8">https://youtu.be/1XBOLA5W7lg?si=qEjOiR1EsJ6_BWo8</a>
  
-You can find the information on project itself here: <a href="https://devpost.com/software/dfe">https://devpost.com/software/dfe</a>
+You can find the information on project itself [here](https://regex-ics314.github.io/).
