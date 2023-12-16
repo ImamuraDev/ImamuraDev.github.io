@@ -17,7 +17,7 @@ Over half a century after its inception, software engineering has become a large
 ## Development Environment
 A development environment consists of the workspace/tools (environment) that you use while creating (developing) a piece of software. In most scenarios, this manifests in an application where you can write and test your code, known as an Integrated Development Environment (IDE), which is what I will mainly focus on for this section. I find the choice of IDE to be quite impactful, as they are the environment where you will be spending all your time, with each having its own features and layout. By choosing the correct IDE for you and learning to use its features, you can spend more time working on the actual code itself rather than trying to figure out how to accomplish certain things or searching for files, etc.
 
-<img width="500px" src="../img/IDE.png">
+<img width="500px" src="../img/IDECrop.png">
 
 Personally, the IDE I have been using most recently (for web development) is Intellij, though I have certainly used others in the past, mostly dependent on what the class I was taking required. As of present, I’m not entirely sure what kind of development lies in my immediate future, but I’m tentatively alright with using Intellij, since it is both familiar and also fairly well laid out and useful. However, if I do decide to change IDEs in the future, I will be sure to take the time and ensure that it’s the right choice for the project.
 
